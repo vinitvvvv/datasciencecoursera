@@ -1,6 +1,2 @@
 ## This is a markdown file
 ## VINIT VERMA
-## INTELLECTUAL
-## CODER
-## OM NAMOH NARAYANAY
-## INDIAN
